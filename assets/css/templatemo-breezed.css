@@ -893,7 +893,7 @@ ul.slick-dots {
   width: 80%;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 70%;
   transform: translate(-50%, -50%);
 }
 
@@ -1117,7 +1117,11 @@ subscribe
     text-align: center;
     margin-bottom: 20px;
   }
+
+
 }
+
+
 
 /*
 --------------------------------------------
@@ -1405,6 +1409,13 @@ footer .right-text-content ul li a:hover {
   footer .right-text-content {
     float: none;
     text-align: center;
+  }
+
+  .Modern-Slider .text-content {
+    width: 80%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
   }
 }
 
